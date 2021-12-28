@@ -1,0 +1,369 @@
+.pagination-ul{
+  text-align: center;
+}
+.pagination{
+  display: inline-block;
+  padding: 7px;
+  background-color: #097369;
+  margin: 2px;
+  color: #ffffff;
+  border-radius:5px;
+  width: 20px
+}
+.pagination-current{
+  display: inline-block;
+  padding: 7px;
+  background-color: #004D40;
+  margin: 2px;
+  color: #ffffff;
+  border-radius:5px;
+  width: 20px
+}
+
+.row-record{
+  direction: rtl;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #FAFAFA;
+  -webkit-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 0px 0px 2px 0px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 3px 0px rgba(0,0,0,0.2);
+}
+
+.pagination:hover{
+  background-color: #00695C;
+}
+
+@font-face {
+  font-family: 'Iransans';
+  src: url('IRANSansWeb.ttf') format('truetype');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  background-color:#F5F5F5;
+}
+body {
+  font-family: Iransans;
+  color: #000;
+  height: 95%;
+
+}
+.awesomes {
+  font-size: 4em;
+}
+
+input {
+  font-family: Iransans;
+  border: solid 0px #fafafa;
+  border-radius:5px;
+  box-shadow:0px 0px 0.5px 0.5px #e0e0e0;
+  width: 300px;
+  font-weight: bold;
+  font-size: 10pt;
+  height: 35px;
+  background-color: #fafafa;
+  background-size: 30px;
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  padding: 5px;
+  padding-left: 10px;
+  direction: rtl;
+  display: inline-block;
+
+}
+.clear{
+  clear: both;
+}
+
+textarea {
+  font-family: Iransans;
+  border: solid 0px #e3e3e3;
+  border-radius:5px;
+  box-shadow:0px 0px 0.5px 0.5px #e0e0e0;
+  width: 60%;
+  font-weight: bold;
+  font-size: 10pt;
+  height: 55px;
+  background-color: #fafafa;
+  background-size: 30px;
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  padding: 5px;
+  padding-left: 10px;
+  direction: rtl;
+  display: inline-block;
+
+}
+
+input:hover {
+  border: solid 0px #E0E0E0;
+
+}
+textarea:hover {
+  border: solid 0px #E0E0E0;
+
+}
+input:focus {
+  border: solid 0px #009688;
+}
+
+textarea:focus {
+  border: solid 0px #009688;
+}
+
+#div2 {
+  margin-left: auto;
+  margin-right: auto;
+  direction: rtl;
+  background-position:  center;
+  background-color: #fff;
+  padding: 5px;
+  width: 40%;
+  height: 90%;
+  border-radius: 5px;
+  box-shadow: 0 0.5px 0.5px #000;
+  border-radius: 5px;
+  box-shadow: 0px 1.5px 1px #000;
+  border-top: 45px solid #2e7d32;
+}
+
+#div3 {
+  overflow: auto;
+  margin-left: auto;
+  margin-right: auto;
+  direction: rtl;
+  background-position:  center;
+  background-color: #fff;
+  padding: 5px;
+  width: 90%;
+  height: 90%;
+  border-radius: 5px;
+  box-shadow: 0 0.5px 0.5px #000;
+  border-radius: 5px;
+  box-shadow: 0px 1.5px 1px #000;
+  border-top: 45px solid #388e3c;
+}
+
+.inline {
+  display: inline-block;
+}
+
+.btnblue {
+  font-family: Iransans;
+  border-radius: 5px;
+  border: 0px;
+  color: white;
+  background-color: #2196F3;
+  width: 100px;
+  padding: 0px;
+  margin: 10px;
+  font-size: 17px;
+  height: 40px;
+  top: 5px;
+  right: 5%;
+  position: absolute;
+  cursor: pointer;
+  text-decoration: none;
+}
+.btnblue2 {
+  font-family: Iransans;
+  border-radius: 5px;
+  border: 0px;
+  color: white;
+  background-color: #2196F3;
+  width: 120px;
+  padding: 0px;
+  margin: 10px;
+  font-size: 17px;
+  height: 40px;
+  top: 5px;
+  right: 5%;
+  position: absolute;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
+
+#header-wraper {
+  background-color: #f2f2f2;
+  position: fixed;
+  bottom: 0;
+  height: 35px;
+  width: 100%;
+  border: none;
+  border-top: 1px solid #e4e4e4;
+}
+
+.btnback {
+  font-family: Iransans;
+  border-radius: 5px;
+  color: white;
+  background-color: #1A237E;
+  width: 70px;
+  padding: 0px;
+  margin: 0px;
+  font-size: 17px;
+  height: 40px;
+  top: 80%;
+  left: 20%;
+  position: absolute;
+  cursor: pointer;
+  text-decoration: none;
+
+}
+
+.btnbackt:hover{
+  background-color: #3F51B5;
+}
+
+
+.btn{
+  background-color: #43A047;
+  padding: 8px;
+  margin: 2px;
+  color: #FFFFFF;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+
+
+.btn2{
+  background-color: #2979FF;
+  padding: 8px;
+  margin: 2px;
+  color: #FFFFFF;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn3{
+  background-color: #0097A7;
+  padding: 8px;
+  margin: 2px;
+  color: #FFFFFF;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn4{
+  padding: 8px;
+  margin: 2px;
+  color: #000000;
+  border-radius: 5px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.btn:hover{
+  background-color: #1B5E20;
+}
+.btn2:hover{
+  background-color: #0277BD;
+}
+.btn3:hover{
+  background-color: #006064;
+}
+
+
+.btnsave {
+  font-family: Iransans;
+  border-radius: 5px;
+  color: white;
+  background-color: #1B5E20;
+  width: 110px;
+  padding: 0px;
+  margin: 0px;
+  font-size: 17px;
+  height: 40px;
+  top: 80%;
+  right: 20%;
+  position: absolute;
+  cursor: pointer;
+  text-decoration: none;
+
+}
+
+.btnsave:hover{
+  background-color: #43A047;
+}
+
+.error{
+  display:block;
+  height:auto;
+  width:auto;
+  padding:4px;
+  color:#C00;
+}
+
+
+.item{
+  color: #000;
+  background-color: #fdfdfd;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 8px;
+  width: 90%;
+  display: inline-block;
+  white-space: pre-wrap;
+  text-align: right;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.1);
+
+}
+
+.form-control{
+  margin-top: 5px;
+}
+
+.rtl{
+  direction: rtl;
+}
+.ltr{
+  direction: ltr;
+}
+.tac{
+  text-align: center;
+}
+.mr-5{
+  margin-right: 5px;
+}
+.div-second{
+  direction: rtl;
+  text-align: right;
+  width: 400px;
+  float: right;
+  margin-right: 50px;
+}
+
+.block{
+  display: block;
+}
+.submit{
+  cursor: pointer;
+  background-color: #E0E0E0;
+  border: 1px solid #9E9E9E;
+  border-radius: 5px;
+}
+.submit:hover{
+  background-color: #EEEEEE;
+  border: 1px solid #9E9E9E;
+}
+.mt-5{margin-top: 5px;}
+
+.unselectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
