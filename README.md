@@ -1,4 +1,4 @@
-# web-crawler-php
+# simple php web crawler
 a simple web crawler for searching in forums
 
 ## Installation
@@ -35,3 +35,8 @@ Please make sure to update tests as appropriate.
 
 ## License
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+
+## Screenshots
+![screenshot1](https://uncogeek.ir/uploads/img/php-crawler-sc1.png)
+![screenshot2](https://uncogeek.ir/uploads/img/php-crawler-sc2.png)
