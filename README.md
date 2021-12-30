@@ -37,6 +37,8 @@ Please make sure to update tests as appropriate.
 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
 
 
-## Screenshots
-![screenshot1](https://uncogeek.ir/uploads/img/php-crawler-sc1.png)
-![screenshot2](https://uncogeek.ir/uploads/img/php-crawler-sc2.png)
+## User Interface Screenshots
+<p align="center">
+  <img src="https://uncogeek.ir/uploads/img/php-crawler-sc1.png" width="150" title="Screenshot 1">
+  <img src="https://uncogeek.ir/uploads/img/php-crawler-sc2.png" width="150" alt="Screenshot 2">
+</p>
